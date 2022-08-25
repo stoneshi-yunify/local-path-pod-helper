@@ -1,0 +1,9 @@
+/.dapper
+/.cache
+/bin
+/dist
+*.swp
+.idea
+.vscode/
+tmp/
+Dockerfile.dapper[0-9]*
